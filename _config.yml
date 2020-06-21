@@ -1,20 +1,18 @@
 locale: "en-US"
-title: Strata # Title of your site
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+title: Minglu (Lucy) Zhao # Title of your site
+url: "https://lucyzhao1999.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal Website of Minglu (Lucy) Zhao, 3rd year student at University of California, Los Angeles (UCLA), double majoring in Statistics and Cognitive Science (with a specialization in Computing), with a minor in Mathematics
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name: Your Name
-  email: your-email@domain.com
-  twitter: # twitter username without the @ symbol
+  name: Minglu Lucy Zhao
+  email: mz517@g.ucla.edu
+  twitter: lucywatermelon1 # twitter username without the @ symbol
 
 # Social details for the jekyll-seo-tag gem
 social:
